@@ -1,0 +1,23 @@
+/* Stéphane CSS */
+
+#main-button {
+	width: 40%;
+	margin: 1em 30% 1em 30%;
+}
+
+body {
+	min-height: 100vh;
+}
+
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+#background-color {
+	width: 40%;
+	text-align: center;
+	margin: 10% 30% 1em 30%;
+	font-size: 2em;
+}
