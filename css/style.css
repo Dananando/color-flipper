@@ -8,12 +8,14 @@
 
 body {
 	min-height: 100vh;
+	overflow: scroll;
 }
 
 #footer {
 	position: fixed;
-	/* bottom: 0; */
+	bottom: 0;
 	width: 100%;
+	padding: 3em 1em 3em 1em;
 }
 
 #background-color {
