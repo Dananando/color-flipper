@@ -1,6 +1,7 @@
 /* Stéphane CSS */
 
 #main-button {
+	background-color: null;
 	width: 40%;
 	margin: 1em 30% 1em 30%;
 }
@@ -10,8 +11,8 @@ body {
 }
 
 #footer {
-	position: absolute;
-	bottom: 0;
+	position: fixed;
+	/* bottom: 0; */
 	width: 100%;
 }
 
